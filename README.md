@@ -1,3 +1,5 @@
+### check git commit -am
+
 …or create a new repository on the command line
 
 echo "# py-sequence" >> README.md
