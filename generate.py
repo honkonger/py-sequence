@@ -1,8 +1,12 @@
 from random import shuffle
 
-cards = ["jack", "queen", "king"]
-shuffle(cards)
-for card in cards:
-    print(card)
+mylist = ["jack", "queen", "king"]
+
+myset = {"jack", "queen", "king"}
+
+for _ in myset:
+    print(_)
+
+
     
 
