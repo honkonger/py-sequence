@@ -1,8 +1,8 @@
 from random import shuffle
 
 mylist = ["jack", "queen", "king"]
-for _ in mylist:
-    print(_)
+for j in mylist:
+    print(j)
 
 myset = {"jack", "queen", "king"}
 
