@@ -15,3 +15,19 @@ git push -u origin main
 git remote add origin https://github.com/honkonger/py-sequence.git
 git branch -M main
 git push -u origin main
+
+# git clone https://github.com/honkonger/py-sequence.git
+
+===========================
+it make a directory py-sequence
+
+# cd py-sequence
+
+==================
+ANDTHEN create files in py-sequence directory
+
+I have 2 files and only add ONE
+
+# git add README.md
+
+# git commit -m "see what is IN"
