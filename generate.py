@@ -9,6 +9,9 @@ myset = {"jack", "queen", "king"}
 for _ in myset:
     print(_)
 
+for _ in myset:
+    print(_)
+
 
     
 
